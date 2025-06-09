@@ -1,6 +1,6 @@
 #### Meu Aprendizado: Como Criei e Personalizei um Copilot ###
 
-########################################################################################################################################################################
+
 Este é um resumo da minha experiência criando e configurando um assistente de IA usando o Microsoft Copilot Studio . Segui as etapas do desafio e agora sei como montar, customizar e melhorar o desempenho de um Copilot.
 
 1. 🆕 Comecei Criando um Copilot em Branco
